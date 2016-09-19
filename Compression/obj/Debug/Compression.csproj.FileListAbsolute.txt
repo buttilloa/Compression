@@ -1,0 +1,6 @@
+c:\users\antho\documents\visual studio 2015\Projects\Compression\Compression\bin\Debug\Compression.exe.config
+c:\users\antho\documents\visual studio 2015\Projects\Compression\Compression\bin\Debug\Compression.exe
+c:\users\antho\documents\visual studio 2015\Projects\Compression\Compression\bin\Debug\Compression.pdb
+c:\users\antho\documents\visual studio 2015\Projects\Compression\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+c:\users\antho\documents\visual studio 2015\Projects\Compression\Compression\obj\Debug\Compression.exe
+c:\users\antho\documents\visual studio 2015\Projects\Compression\Compression\obj\Debug\Compression.pdb
